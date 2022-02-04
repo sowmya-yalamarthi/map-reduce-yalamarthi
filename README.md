@@ -6,4 +6,4 @@ The data I used was different netflix shows which has five attributes namely Tit
 ## Data Story:
 I have analyzed the netflix shows data by comparing the Top 19 shows on netflix 
 
-![](showsChart.png)
+![Visualization Graph](showsChart.PNG)
