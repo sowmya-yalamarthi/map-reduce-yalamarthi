@@ -1,5 +1,4 @@
-# Case 2 - Reducer using standard input and output
-# Easy to test locally in the terminal
+
 
 import sys
 
